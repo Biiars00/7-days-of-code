@@ -2,11 +2,11 @@
 
 > Desafio de 7 dias, oferecido pela Alura, utilizando a linguagem JavaScript.
 
-- Dia 01: Comparação entre operadores lógicos.
+- Dia 01: Operadores lógicos.
 
 - Dia 02: Interação com o usuário.
 
-- Dia 03: ...
+- Dia 03: Estruturas de controle de fluxo.
 
 - Dia 04: ...
 
