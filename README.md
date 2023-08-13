@@ -8,11 +8,9 @@
 
 - Dia 03: Estruturas de controle de fluxo.
 
-- Dia 04: ...
+- Dia 04: Loops e randomização.
 
-- Dia 05: ...
+- Dias 05 e 06: Arrays e coleções (manipulação de itens).
 
-- Dia 06: ...
-
-- Dia 07: ...
+- Dia 07: Calculadora.
 
